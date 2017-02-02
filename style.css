@@ -1,7 +1,8 @@
 #pos {
-  padding: 10px;
-  background: black;
-  color: yellow;
+    padding: 10px;
+    background: black;
+    color: yellow;
+    cursor: pointer;
 }
 
 h2 {
